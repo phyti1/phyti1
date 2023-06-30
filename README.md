@@ -4,21 +4,25 @@ Hello, my name is **Pascal Berger** and I am a **Data Scientist and Software Eng
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pascal-berger-135406157/)](https://www.linkedin.com/in/pascal-berger-135406157/)
 
-### My Skills
+
+### In depth experience:
 <div>
-<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" /> <img src="https://img.shields.io/badge/-Tealium-00AEEF?style=flat-square&logo=tealium&logoColor=white" alt="Tealium" />
-<img src="https://img.shields.io/badge/-Adobe%20Analytics-FF0000?style=flat-square&logo=adobe%20analytics&logoColor=white" alt="Adobe Analytics" />
-<img src="https://img.shields.io/badge/-Google%20Analytics-E37400?style=flat-square&logo=google%20analytics&logoColor=white" alt="Google Analytics" />
-<img src="https://img.shields.io/badge/-Google%20Cloud%20Platform-4285F4?style=flat-square&logo=google%20cloud&logoColor=white" alt="Google Cloud Platform" />
-<img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+<img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img alt="C#" src="https://img.shields.io/badge/C%23-239120.svg?logo=csharp&logoColor=white&style=flat" />
+<img alt="React" src="https://img.shields.io/badge/React-61DAFB.svg?logo=react&logoColor=white&style=flat" />
+<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6.svg?logo=typescript&logoColor=white&style=flat" />
+<img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1.svg?logo=sql&logoColor=white&style=flat" />
+<img alt="NoSQL" src="https://img.shields.io/badge/NoSQL-4DB33D.svg?logo=nosql&logoColor=white&style=flat" />
+<img alt="PyTorch" src="https://img.shields.io/badge/-PyTorch-000000?style=flat-square&logo=pytorch&logoColor=red" />
+<img alt="Pandas" src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+<img alt="Microsoft Azure" src="https://img.shields.io/badge/Microsoft%20Azure-0089D6.svg?logo=microsoft-azure&logoColor=white&style=flat" />
+<img alt="Google Cloud" src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=google%20cloud&logoColor=white" />
 </div>
 
 
 ### About me
 - I have a passion for data and using it to improve businesses 📈
 - Besides my projects I have a passion for rowing and helping people to find their passion. 
-
 
 
 ### My GitHub Stats
